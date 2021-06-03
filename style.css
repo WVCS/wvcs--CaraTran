@@ -6,7 +6,7 @@ body {
 }
 
 h1 {
- color: 0F0F0F: 
+ color: 1C231A: 
  text-size: 80%; 
  text-align: center; 
  border-style: 2px double; 
@@ -14,6 +14,7 @@ h1 {
 }
 
 p {
+color: 1C231A; 
 text-size: 20%; 
 text-align: center;
 background-color:6C8367; 
@@ -52,7 +53,7 @@ li a:hover {
 }
 
 li a.active {
-  background-color: 587552;
+  background-color: 3F4F3B;
   color: 1C231A;
 }
 
