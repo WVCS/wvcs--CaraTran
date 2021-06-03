@@ -20,7 +20,7 @@ width: 75%;
 
 /* -------------------------------------STYLE OF NAVIGATION BAR (TAKEN FROM EXAMPLE)------------------- */
 ul {
-  position: sticky; 
+  position: fixed; 
   list-style-type: none;
   margin: 0;
   padding: 0;
@@ -45,5 +45,10 @@ li a {
 
 li a:hover {
   background-color: 394836;
+}
+
+.active {
+  background-color: 587552;
+  color: 1C231A;
 }
 
