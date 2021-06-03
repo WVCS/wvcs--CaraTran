@@ -4,7 +4,7 @@ body {
 
 h1 {
  color: 0F0F0F: 
- text-size: 60%; 
+ text-size: 80%; 
  text-align: center; 
 }
 
@@ -12,6 +12,7 @@ p {
 text-size: 20%; 
 text-align: center;
 background-color:6C8367; 
+width: 75%;
 }
 
 
@@ -21,7 +22,6 @@ ul {
   margin: 0;
   padding: 0;
   width: 100%;
-  left: 0;
   overflow: hidden;
   background-color: 1C231A;
 }
