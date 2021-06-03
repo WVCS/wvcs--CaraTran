@@ -1,9 +1,15 @@
 body {
-  background-color: 27442B;
+  background-color: 546A4F;
 }
 
 h1 {
  color: 0F0F0F: 
  text-size: 100; 
  text-align: center; 
+}
+
+p {
+text-size: 20%; 
+text-align: center;
+background-color:6C8367; 
 }
