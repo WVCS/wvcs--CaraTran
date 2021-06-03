@@ -13,3 +13,33 @@ text-size: 20%;
 text-align: center;
 background-color:6C8367; 
 }
+
+
+/* -------------------------------------STYLE OF NAVIGATION BAR (TAKEN FROM EXAMPLE)------------------- */
+ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  width: 100%;
+  left: 0;
+  overflow: hidden;
+  background-color: 4E554C;
+}
+
+
+li {
+  float: left;
+}
+
+li a {
+  display: block;
+  color: black;
+  text-align: center;
+  padding: 20px 30px;
+  text-decoration: none;
+}
+
+li a:hover {
+  background-color: blue;
+}
+
