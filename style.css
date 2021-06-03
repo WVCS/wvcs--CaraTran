@@ -23,7 +23,7 @@ ul {
   width: 100%;
   left: 0;
   overflow: hidden;
-  background-color: 4E554C;
+  background-color: 1C231A;
 }
 
 
@@ -33,13 +33,13 @@ li {
 
 li a {
   display: block;
-  color: black;
+  color: DDE5DC;
   text-align: center;
   padding: 20px 30px;
   text-decoration: none;
 }
 
 li a:hover {
-  background-color: blue;
+  background-color: 394836;
 }
 
