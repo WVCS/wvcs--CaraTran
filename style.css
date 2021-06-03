@@ -33,6 +33,15 @@ button {
  margin 4px 6px 
 }
 
+table, th, td {
+  border: 1px solid 1C231A;
+  border-collapse: collapse;
+  background-color: 6C8367;
+  text-align: center; 
+  margin-left: auto; 
+  margin-right: auto;
+  padding: 7 px;
+}
 
 /* -------------------------------------STYLE OF NAVIGATION BAR (TAKEN FROM EXAMPLE)------------------- */
 ul {
