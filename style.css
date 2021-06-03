@@ -1,8 +1,7 @@
 body {
   background-color: 546A4F;
   background-image: url("leaves2.png")
-  background-repeat: no repeat; 
-  background-position: center; 
+  background-repeat: no-repeat; 
 }
 
 h1 {
